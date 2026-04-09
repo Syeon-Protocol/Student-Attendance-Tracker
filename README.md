@@ -4,7 +4,7 @@ A smart web application designed to help students and professionals track their 
 
 ## 🔗 Live Demo
 
-Check out the app live here: [Attendance Tracker](https://syeon-protocol.github.io/Attendance_Tracker/)
+Check out the app live here: [Attendance Tracker](https://syeon-protocol.github.io/Student-Attendance-Tracker/)
 
 ---
 
